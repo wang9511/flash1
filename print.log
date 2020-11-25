@@ -1,0 +1,490 @@
+nohup: ignoring input
+
+===========================================================================
+Caching Murphi Release 5.4.9.1
+Finite-state Concurrent System Compiler.
+
+Caching Murphi Release 5.4.9.1 is based on Murphi release 3.1.
+Caching Murphi Release 5.4.9.1 :
+Copyright (C) 2009 - 2012 by Sapienza University of Rome.
+Murphi Release 3.1 :
+Copyright (C) 1992 - 1999 by the Board of Trustees of
+Leland Stanford Junior University.
+===========================================================================
+Call with the -l flag or read the license file for terms
+and conditions of use.
+Run this program with "-h" for the list of options.
+Bugs, questions, and comments should be directed to
+"melatti@di.uniroma1.it".
+
+CMurphi compiler last compiled date: Nov 19 2020
+===========================================================================
+../../../project/protocols/flash/ABS_flash_1.m:106:Other already defined in current scope.
+../../../project/protocols/flash/ABS_flash_1.m:144: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:265: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:284: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:497: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:525: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:553: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:590: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:623: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:661: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:693: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:728: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:760: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:797: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:828: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:861: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:891: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:925: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:963: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:980: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1017: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1034: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1070: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1087: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1125: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1142: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1177: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1196: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1199: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1236: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1255: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1258: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1294: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1313: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1316: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1354: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1373: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1376: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1411: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1427: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1464: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1480: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1516: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1532: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1570: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1586: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1621: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1639: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1642: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1679: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1697: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1700: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1736: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1754: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1757: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1795: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1813: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1816: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1850: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1864: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1900: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1914: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1949: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:1963: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2000: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2014: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2048: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2064: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2067: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2103: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2119: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2122: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2157: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2173: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2176: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2213: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2229: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2232: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2449: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2474: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2725: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:2762: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:3011: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:3069:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3104:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3148:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3189:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3223: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:3262:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3266: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:3304:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3308: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:3336:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3340: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:3366:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3367:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3439:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3441:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3505:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3507:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3580:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3581:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3651:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3653:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3715:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3717:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3788:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3789:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3839:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3892:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3940:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:3963: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:3967:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4012: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4016:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4049: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4053:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4061:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4090: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4094:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4148: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4152:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4161:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4211: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4215:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4242: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4246:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4253:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4277: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4281:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4328: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4332:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4341:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4385: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4389:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4414: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4418:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4425:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4447: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4451:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4498: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4502:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4510:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4554: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4558:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4585:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4596: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4600: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4604:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4612:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4633:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4645: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4649: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4653:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4703:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4715: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4719: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4723:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4732:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4774:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4786: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4790: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4794:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4822:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4834: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4836:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4841: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4845: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4849:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4857:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4878:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4890: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4892:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4897: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4901: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4905:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4955:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4967: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4969:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4974: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4978: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:4982:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:4991:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5033:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5045: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5047:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5052: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5056: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5060:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5083:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5095: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5099: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5103:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5111:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5127:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5139: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5143: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5147:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5191:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5203: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5207: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5211:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5220:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5256:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5268: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5272: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5276:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5299:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5311: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5313:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5318: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5322: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5326:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5334:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5351:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5363: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5365:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5370: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5374: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5378:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5422:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5434: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5436:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5441: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5445: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5449:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5458:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5495:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5507: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5509:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5514: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5518: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5522:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5543:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5555: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5559: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5563:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5570:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5585:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5597: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5601: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5605:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5649:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5661: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5665: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5669:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5677:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5714:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5726: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5730: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5734:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5755:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5767: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5769:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5774: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5778: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5782:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5789:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5805:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5817: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5819:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5824: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5828: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5832:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5876:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5888: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5890:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5895: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5899: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5903:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5911:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5949:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5961: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5963:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5968: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5972: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:5976:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:5998:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6033:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6034:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6106:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6108:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6172:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6174:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6247:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6248:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6318:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6320:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6382:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6384:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6455:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6456:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6506:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6559:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6607:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6628:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6671:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6687:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6690: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:6694:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6733:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6736: warning: Scalarset is used in loop index.
+	Please make sure that the iterations are independent.
+../../../project/protocols/flash/ABS_flash_1.m:6740:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6759:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6800:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6822:Arguments of = or <> must have same types.
+../../../project/protocols/flash/ABS_flash_1.m:6864:Arguments of = or <> must have same types.
