@@ -8,7 +8,7 @@ type
 
   NODE : scalarset(NODE_NUM);
   DATA : scalarset(DATA_NUM);
-  ABS_NODE : union {NODE, enum{other}};
+  ABS_NODE : union {NODE, enum{Other}};
   
   CACHE_STATE : enum{CACHE_I,CACHE_S,CACHE_E};
   
